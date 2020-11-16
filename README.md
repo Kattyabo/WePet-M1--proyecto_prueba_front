@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # proyecto_prueba_front KATHERINE BARRERA
 
 ******COMENZAR CON HTML LOGIN**********
@@ -19,3 +20,5 @@ Realizados sola, para estar al día.
 *GITHUB
 
 *******imágenes sin autorización de uso, sólo para uso académico*******************
+=======
+>>>>>>> master
