@@ -1,4 +1,7 @@
 # proyecto_prueba_front KATHERINE BARRERA
+
+**********PARTIR POR HTML LOGIN**********
+
 Proyecto creado para prueba curso python fullstack unidad 1 fundamentos de html. Reune todos los trabajos pendientes del módulo 1. 
 Realizados sola, para estar al día.
 
